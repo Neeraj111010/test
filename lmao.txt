@@ -1,3 +1,2 @@
 Crossfit,resistance
 Strength,endurance
-WeightLifting,PowerLifting

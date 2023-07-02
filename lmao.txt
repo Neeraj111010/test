@@ -1,1 +1,2 @@
-RRRRR HEEEE
+Crossfit,resistance
+Strength,endurance
